@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642531109658",
+    "project_id": "houzi-original",
+    "storage_bucket": "houzi-original.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642531109658:android:60dadcf3a7d41886bd5aa3",
+        "android_client_info": {
+          "package_name": "com.pilbe.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHUmHP4Q5Dwmw8DrpcYxUU8CXCSRg5dqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
